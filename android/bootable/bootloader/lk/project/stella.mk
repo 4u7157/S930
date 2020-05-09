@@ -1,0 +1,1 @@
+mt6582_phone_qhd.mk
